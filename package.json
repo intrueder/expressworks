@@ -1,6 +1,6 @@
 {
   "name": "expressworks",
-  "version": "0.0.16",
+  "version": "0.0.19",
   "description": "Express.js workshop based on workshopper and inspired by stream-adventure by @substack and @maxogden.",
   "main": "expressworks.js",
   "author": "Azat Mardanov (@azat_co)",
@@ -25,9 +25,10 @@
   "preferGlobal": true,
   "dependencies": {
     "workshopper": "~0.3.3",
-    "express": "~3.4.3",
+    "express": "~4.4.2",
     "superagent": "~0.15.7",
     "jade": "~0.35.0",
-    "stylus": "~0.38.0"
+    "stylus": "~0.38.0",
+    "connect": "~2.19.5"
   }
 }

@@ -9,13 +9,15 @@ Express.js workshop based on [workshopper](https://github.com/rvagg/workshopper)
 
 
 ```
-    48  Azat Mardanov
+    55  Azat Mardan
      3  Charlotte Spencer
      2  Thomas Burette
-     1  Wojciech Gawronski
+     2  intrueder
      1  Giuseppe
+     1  Dylan Smith
      1  Alessandro Lensi
      1  Ryan Kois
+     1  Wojciech Gawronski
 ```
 
 Make a PR to see your name here. ;-)
